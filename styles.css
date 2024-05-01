@@ -38,3 +38,13 @@ table {
   tfoot td {
     font-weight: bold;
   }
+  
+  
+.banner {
+  background-color: #FDFFC2;
+  
+}
+.banner img {
+  border-radius: 100%
+  
+}
